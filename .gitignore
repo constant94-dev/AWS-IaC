@@ -4,8 +4,8 @@
 ### Terraform ###
 # Local .terraform directories
 **/.terraform/*
-/terraform/dayone-id/.terraform
-/terraform/init-user2/.terraform
+*/terraform/dayone-id/.terraform
+*/terraform/init-user2/.terraform
 
 # .tfstate files
 *.tfstate
@@ -41,5 +41,8 @@ terraform.rc
 
 # Ignore aws install files
 aws
+
+# Ignore git user config file
+*/aws_20230313/.gitconfig
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
