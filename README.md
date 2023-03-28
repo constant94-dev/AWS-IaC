@@ -2,5 +2,5 @@
 
 <p>
   <h4>23.03.13<br>
-  : Terraform 예제 구성 및 IAM 역할 할당 및 관리</h4>
+  : Terraform 예제 구성 및 IAM 초기 세팅</h4>
 </p>
