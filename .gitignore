@@ -4,6 +4,8 @@
 ### Terraform ###
 # Local .terraform directories
 **/.terraform/*
+/terraform/dayone-id/.terraform
+/terraform/init-user2/.terraform
 
 # .tfstate files
 *.tfstate
